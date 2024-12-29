@@ -11,7 +11,7 @@ Some are copied from online with credits as shown below.
 ### ADDNG TO KICAD
 To add these lib files into kicad:
 
-**_**case matters**_**
+***_*case matters_****
 
 1. In the project schematic file, click **Preferences > Manage Symbol Libraries** menu
 2. Go to the **Project Specific Libraries** tab.
