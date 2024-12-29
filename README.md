@@ -11,6 +11,8 @@ Some are copied from online with credits as shown below.
 ### ADDNG TO KICAD
 To add these lib files into kicad:
 
+**_CASE MATTERS_**
+
 1. In the project schematic file, click **Preferences > Manage Symbol Libraries** menu
 2. Go to the **Project Specific Libraries** tab.
 3. Click the folder icon to add a new library
