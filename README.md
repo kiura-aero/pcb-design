@@ -8,7 +8,7 @@ Some are copied from online with credits as shown below.
 
 **_RDA5807M_** - arm8686 with changes
 
-### ADDNG TO KICAD
+### IMPORT TO KICAD
 To add these lib files into kicad:
 
 ***_*case matters_****
